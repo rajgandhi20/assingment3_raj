@@ -1,0 +1,15 @@
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/bin/Debug/net7.0/assingment3_raj
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/bin/Debug/net7.0/assingment3_raj.deps.json
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/bin/Debug/net7.0/assingment3_raj.runtimeconfig.json
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/bin/Debug/net7.0/assingment3_raj.dll
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/bin/Debug/net7.0/assingment3_raj.pdb
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.csproj.AssemblyReference.cache
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.AssemblyInfoInputs.cache
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.AssemblyInfo.cs
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.csproj.CoreCompileInputs.cache
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.dll
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/refint/assingment3_raj.dll
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.pdb
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/assingment3_raj.genruntimeconfig.cache
+/Users/puneet/Projects/assingment3_raj/assingment3_raj/obj/Debug/net7.0/ref/assingment3_raj.dll
